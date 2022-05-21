@@ -376,7 +376,7 @@ body.dark-theme {
 }
 
 .footer__container {
-  row-gap: 20rem;
+  row-gap: 2rem;
 }
 
 .footer__logo, .footer__title {
